@@ -145,6 +145,14 @@ The web application predicts whether a transaction is:
 
 ---
 
+## Conclusion
+
+This project successfully implements a Credit Card Fraud Detection system using Machine Learning techniques. Multiple classification algorithms, including Logistic Regression, Random Forest, and XGBoost, were trained and evaluated to identify fraudulent transactions. Among these, the best-performing model was selected and deployed using a Flask web application, allowing users to predict whether a transaction is genuine or fraudulent through a simple web interface.
+
+This project demonstrates the complete machine learning workflow, including data preprocessing, model training, evaluation, model deployment, and web application development, making it a practical solution for fraud detection.
+
+---
+
 ## 👨‍🎓 Internship
 
 APSCHE – AI & ML Internship
